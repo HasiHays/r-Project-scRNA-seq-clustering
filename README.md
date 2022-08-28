@@ -2,7 +2,7 @@
 Clustering of Lung cancer scRNA-seq data
 
 #seurat scRNA-seq working flow
-#setwd("~/Desktop/R/Seurat-workflow/script")
+
 #data - NSCLC data form 10X Genomics
 
 #(A)- Pre processing and clusteering
