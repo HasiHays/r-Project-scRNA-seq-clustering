@@ -17,22 +17,6 @@
 
 #(B)- Analyse using Seurat Object
 
-
-#install packages
-install.packages("BiocManager")
-install.packages("devtools")
-install.packages("tidyverse")
-install.packages("Seurat")
-install.packages("pheatmap")
-install.packages("knitr")
-
-#Download bioconductor packages
-BiocManager::install("fgsea")
-BiocManager::install("GeneOverlap")
-BiocManager::install("limma")
-BiocManager::install("progeney")
-BiocManager::install("dorothea")
-
 #Take libraries
 library(Seurat)
 library(tidyverse)
